@@ -295,5 +295,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787330709.010955,
+    "completed_at": 1787330711.075448,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
