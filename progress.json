@@ -322,5 +322,14 @@
       "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787761784.090094,
+    "completed_at": 1787761785.40421,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
